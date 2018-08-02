@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\bin\Debug\SwitchVisualiser.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\bin\Debug\SwitchVisualiser.exe
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\bin\Debug\SwitchVisualiser.pdb
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.csproj.GenerateResource.cache
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.csproj.CoreCompileInputs.cache
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.exe
+c:\users\asus\documents\visual studio 2017\Projects\SwitchVisualiser\SwitchVisualiser\obj\Debug\SwitchVisualiser.pdb

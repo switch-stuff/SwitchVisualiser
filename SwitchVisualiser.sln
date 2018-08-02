@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchVisualiser", "SwitchVisualiser\SwitchVisualiser.csproj", "{A0AA0E01-71FA-4CC0-A4A0-BB06FC11BB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AA0E01-71FA-4CC0-A4A0-BB06FC11BB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AA0E01-71FA-4CC0-A4A0-BB06FC11BB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AA0E01-71FA-4CC0-A4A0-BB06FC11BB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AA0E01-71FA-4CC0-A4A0-BB06FC11BB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF2AA27-5164-402F-A0F4-D9A311343B7E}
+	EndGlobalSection
+EndGlobal
